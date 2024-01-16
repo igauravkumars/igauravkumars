@@ -7,5 +7,4 @@
 - 👯 I have learned HTML , CSS LIBRARIES, JAVASCRIPT , LOCALSTORAGE ETC...
 - 🤔 I’m looking for job opportunity
 
-  
-![blue-mail-icon-or-email-vector-45402883](https://github.com/igauravkumars/igauravkumars/assets/138369562/d49d906f-046c-4a35-9aa4-fa7a46fabd71)
+:earth_asia:
