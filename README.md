@@ -7,5 +7,5 @@
 - 👯 I have learned HTML , CSS LIBRARIES, JAVASCRIPT , LOCALSTORAGE ETC...
 - 🤔 I’m looking for job opportunity
 
-	:outbox_tray:Email- gauravjabbal@gmail.com
-        :briefcase:Portfolio-
+:outbox_tray:Email- gauravjabbal@gmail.com
+:briefcase:Portfolio-
