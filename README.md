@@ -15,4 +15,4 @@
 
 ![download (3)](https://github.com/igauravkumars/igauravkumars/assets/138369562/e8eda0d8-9d3b-402d-9320-6d4270993f87)
 
-:dependabot: GitHub Stats
+
