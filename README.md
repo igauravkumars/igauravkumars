@@ -1,4 +1,4 @@
-                                                                   Hi 👋 I;m Gaurav Kumar Sharma
+Hi 👋 I;m Gaurav Kumar Sharma
 
 <!--
 **igauravkumars/igauravkumars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
