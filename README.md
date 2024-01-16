@@ -1,7 +1,6 @@
-Hi 👋 I;m Gaurav Kumar Sharma
+                                                  Hi 👋 I;m Gaurav Kumar Sharma
 
-<!--
-**igauravkumars/igauravkumars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  I'm a passionate aspiring web developer skilled in HTML , CSS AND JAVASCRIPT and likes to do experiments and always ready for learning new things.
 
 Here are some ideas to get you started:
 
