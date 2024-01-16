@@ -9,3 +9,5 @@
 
 :outbox_tray:Email- gauravjabbal@gmail.com
 :briefcase:Portfolio-
+
+:desktop_computer: Tech Stack
