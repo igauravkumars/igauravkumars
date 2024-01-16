@@ -2,9 +2,9 @@
 
   I'm a passionate aspiring web developer skilled in HTML , CSS AND JAVASCRIPT and likes to do experiments and always ready for learning new things.
 
-- 🔭 I'm based in Shimla India
+- :earth_asia: I'm based in Shimla India
 - 🌱 I’m currently learning Full Stack Development
 - 👯 I have learned HTML , CSS LIBRARIES, JAVASCRIPT , LOCALSTORAGE ETC...
 - 🤔 I’m looking for job opportunity
 
-:earth_asia:
+	:outbox_tray: gauravjabbal@gmail.com
