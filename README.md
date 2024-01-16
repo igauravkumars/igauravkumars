@@ -1,4 +1,4 @@
-                                                  Hi 👋 I;m Gaurav Kumar Sharma
+                              Hi 👋 I;m Gaurav Kumar Sharma
 
   I'm a passionate aspiring web developer skilled in HTML , CSS AND JAVASCRIPT and likes to do experiments and always ready for learning new things.
 
